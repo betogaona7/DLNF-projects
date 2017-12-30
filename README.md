@@ -11,7 +11,7 @@ I built and trained a recurrent neural network on scripts from The Simpsons to g
 - _DLNF-Translation_:
 I build and trained a sequence to sequence network for English to French translation. 
 - _DLNF-Faces_: 
-I built a deep convolutional generative adversarial network on the CelebA dataset to generate images of novel and realistic human faces.
+I built a deep convolutional generative adversarial network using the CelebA dataset to generate images of novel and realistic human faces.
 
 
 
